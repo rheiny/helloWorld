@@ -7,6 +7,7 @@ package de.gerster.helloworld;
 public class MyClass
 {
    private String name;
+   private String id;
 
    public String getName()
    {
