@@ -11,7 +11,5 @@ public class HelloWorld
    {
       System.out.println("hello world");
       System.out.println("i need some business logic");
-      // it's just another comment
    }
-
 }
